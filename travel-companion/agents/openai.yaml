@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行全程助手"
+  short_description: "从规划、预约核对到旅行网站与共享账本"
+  default_prompt: "使用 $travel-companion 帮我从规划到交付一个可共享的旅行助手。"
